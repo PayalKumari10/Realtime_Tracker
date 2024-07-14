@@ -34,4 +34,3 @@ To run the application with automatic reloading, use `nodemon`:
    Start the application:
    npx nodemon app.js
 
-![Realtime Device Tracker Screenshot](https://raw.githubusercontent.com/PayalKumari10/Realtime_Tracker/main/images/screenshot.png)
