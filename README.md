@@ -27,7 +27,7 @@ A real-time device tracking application built with Node.js, Express, Socket.IO, 
 
 To run the application with automatic reloading, use `nodemon`:
 
-2. Make sure you have `nodemon` installed globally:
+1. Make sure you have `nodemon` installed globally:
    ```bash
    npm install -g nodemon
 
